@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Beatriz Carvalho!
 👩🏻‍💻 Junior developer with a foundation in **front-end development** and **UX/UI design**.<br/>
-🎓 Studied **Informatics** at UPT, located in Porto.<br/>
+🎓 Studied **Informatics** at UPT, located in Porto, Portugal.<br/>
 🌱 I’m currently learning **React** to improve my skills.<br/>
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
